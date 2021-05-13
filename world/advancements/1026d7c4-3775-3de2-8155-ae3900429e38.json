@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-05-13 22:06:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2021-05-13 15:54:07 +0800"
@@ -750,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-05-13 22:33:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-05-13 16:18:13 +0800"
@@ -1130,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-05-13 22:33:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-05-13 15:34:38 +0800"
@@ -1241,6 +1259,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2021-05-13 16:52:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-05-13 22:33:32 +0800"
     },
     "done": true
   },
@@ -1432,6 +1456,7 @@
       "birch_forest": "2021-05-13 16:59:03 +0800",
       "deep_ocean": "2021-05-13 18:22:27 +0800",
       "beaches": "2021-05-13 18:26:58 +0800",
+      "extreme_hills_with_trees": "2021-05-13 22:33:45 +0800",
       "desert_hills": "2021-05-13 18:26:59 +0800",
       "forest_hills": "2021-05-13 15:11:42 +0800",
       "plains": "2021-05-13 15:28:25 +0800",
