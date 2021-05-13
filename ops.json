@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1026d7c4-3775-3de2-8155-ae3900429e38",
+    "name": "Spirit_Autumn",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1e717a7f-0a19-337e-9f91-992e974e5933",
+    "name": "Sculpture_",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c6017b19-578b-33e7-bc5f-edeb052cb7ae",
+    "name": "Hot_Ghost",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  }
+]
