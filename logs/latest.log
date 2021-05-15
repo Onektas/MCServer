@@ -1,538 +1,132 @@
-[21:41:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:41:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:41:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:41:23] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
-[21:41:23] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_292, running on Linux:amd64:4.18.0-240.22.1.el8_3.x86_64, installed at /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.292.b10-0.el8_3.x86_64/jre
-[21:41:23] [main/INFO] [FML]: Searching /root/MCServer/./mods for mods
-[21:41:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in S_C_玩家救援前置.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:41:23] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:41:23] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[21:41:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:41:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:41:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:41:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:41:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:41:28] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[21:41:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:41:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:41:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:41:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:41:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:41:30] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[21:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[21:41:38] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
-[21:41:38] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[21:41:38] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[21:41:39] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[21:41:40] [Server thread/INFO] [FML]: Searching /root/MCServer/./mods for mods
-[21:41:40] [Server thread/WARN] [FML]: Mod veinminer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
-[21:41:40] [Server thread/WARN] [FML]: Mod veinminermodsupport is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
-[21:41:40] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
-[21:41:42] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[21:41:43] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
-[21:41:43] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[21:41:43] [Server thread/WARN] [FML]: Missing English translation for betterpingdisplay: assets/betterpingdisplay/lang/en_us.lang
-[21:41:43] [Server thread/WARN] [FML]: Missing English translation for veinminermodsupport: assets/veinminermodsupport/lang/en_us.lang
-[21:41:43] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
-[21:41:43] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[21:41:43] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, jei, betterpingdisplay, veinminer, veinminermodsupport, falling_tree, uppers, ic2, lycanitesmobs, uncraftingtable, flammpfeil.slashblade, chesttransporter, travelersbackpack, twilightforest, ironchest, creeperconfetti, playerrevive, creativecore, rtg] at CLIENT
-[21:41:43] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, jei, betterpingdisplay, veinminer, veinminermodsupport, falling_tree, uppers, ic2, lycanitesmobs, uncraftingtable, flammpfeil.slashblade, chesttransporter, travelersbackpack, twilightforest, ironchest, creeperconfetti, playerrevive, creativecore, rtg] at SERVER
-[21:41:47] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[21:41:47] [Server thread/INFO] [FML]: Found 1488 ObjectHolder annotations
-[21:41:47] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[21:41:47] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[21:41:47] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[21:41:47] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[21:41:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile.uppers.upper`, expected `uppers`. This could be a intended override, but in most cases indicates a broken mod.
-[21:41:54] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[21:41:54] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[21:41:55] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[21:41:55] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[21:42:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[21:42:00] [Forge Version Check/INFO] [forge.VersionCheck]: [creeperconfetti] Starting version check at https://raw.githubusercontent.com/SR2610/MicroMods/master/CreeperConfetti/confettiUpdate.json
-[21:42:01] [Forge Version Check/INFO] [forge.VersionCheck]: [uncraftingtable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.12/update.json
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[21:42:02] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[21:42:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config version created successfully.
-[21:42:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config general created successfully.
-[21:42:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_yeti_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_yeti_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
-[21:42:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
-[21:42:04] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
-[21:42:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:05] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config spawning created successfully.
-[21:42:06] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[21:42:06] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[21:42:06] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[21:42:06] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[21:42:06] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[21:42:06] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 86 JSON Spawners...
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 86 JSON Spawners Loaded In Total.
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 5 JSON Dungeon Themes...
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 5 JSON Dungeon Themes Loaded In Total.
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
-[21:42:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
-[21:42:08] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
-[21:42:08] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
-[21:42:08] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 5 JSON Dungeon Schematics...
-[21:42:08] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 5 JSON Dungeon Schematics Loaded In Total.
-[21:42:08] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[21:42:08] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[21:42:08] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[21:42:08] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[21:42:08] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[21:42:08] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[21:42:10] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[21:42:10] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[21:42:10] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[21:42:10] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[21:42:10] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[21:42:10] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[21:42:10] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:42:11] [Server thread/INFO] [FML]: Applying holder lookups
-[21:42:11] [Server thread/INFO] [FML]: Holder lookups applied
-[21:42:12] [Server thread/INFO] [FML]: Applying holder lookups
-[21:42:12] [Server thread/INFO] [FML]: Holder lookups applied
-[21:42:12] [Server thread/INFO] [FML]: Applying holder lookups
-[21:42:12] [Server thread/INFO] [FML]: Holder lookups applied
-[21:42:12] [Server thread/INFO] [FML]: Applying holder lookups
-[21:42:12] [Server thread/INFO] [FML]: Holder lookups applied
-[21:42:12] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:42:12] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[21:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[21:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[21:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[21:42:12] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[21:42:13] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:42:13] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[21:42:13] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:42:13] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:42:13] [Server thread/INFO] [FML]: Applying holder lookups
-[21:42:13] [Server thread/INFO] [FML]: Holder lookups applied
-[21:42:15] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:42:15] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:42:15] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[21:42:15] [Server thread/INFO] [ic2.General]: ic2 version 2.8.221-ex112 loaded.
-[21:42:16] [Server thread/WARN] [RTG]: .= === = ================================ = ================================================== =.
-[21:42:16] [Server thread/WARN] [RTG]: ||                 RTG could not find realistic versions of the following biomes               ||
-[21:42:16] [Server thread/WARN] [RTG]: || === = ================================ = ================================================== ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  ID | Biome Class                      | Registry Name                                      ||
-[21:42:16] [Server thread/WARN] [RTG]: || --- - -------------------------------- - -------------------------------------------------- ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  40 | TFBiomeTwilightLake              | twilightforest:twilight_lake                       ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  41 | TFBiomeBase                      | twilightforest:twilight_forest                     ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  42 | TFBiomeTwilightForestVariant     | twilightforest:dense_twilight_forest               ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  43 | TFBiomeHighlands                 | twilightforest:twilight_highlands                  ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  44 | TFBiomeMushrooms                 | twilightforest:mushroom_forest                     ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  45 | TFBiomeSwamp                     | twilightforest:twilight_swamp                      ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  46 | TFBiomeStream                    | twilightforest:twilight_stream                     ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  47 | TFBiomeSnow                      | twilightforest:snowy_forest                        ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  48 | TFBiomeGlacier                   | twilightforest:twilight_glacier                    ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  49 | TFBiomeClearing                  | twilightforest:twilight_clearing                   ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  50 | TFBiomeOakSavanna                | twilightforest:oak_savannah                        ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  51 | TFBiomeFireflyForest             | twilightforest:firefly_forest                      ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  52 | TFBiomeDeepMushrooms             | twilightforest:deep_mushroom_forest                ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  53 | TFBiomeDarkForest                | twilightforest:dark_forest                         ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  54 | TFBiomeEnchantedForest           | twilightforest:enchanted_forest                    ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  55 | TFBiomeFireSwamp                 | twilightforest:fire_swamp                          ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  56 | TFBiomeDarkForestCenter          | twilightforest:dark_forest_center                  ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  57 | TFBiomeFinalPlateau              | twilightforest:highlands_center                    ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  58 | TFBiomeThornlands                | twilightforest:thornlands                          ||
-[21:42:16] [Server thread/WARN] [RTG]: ||  59 | TFBiomeSpookyForest              | twilightforest:spooky_forest                       ||
-[21:42:16] [Server thread/WARN] [RTG]: `= === | ================================ | ================================================== =`
-[21:42:17] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
-[21:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[21:42:17] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[21:42:18] [Server thread/INFO] [FML]: Applying holder lookups
-[21:42:18] [Server thread/INFO] [FML]: Holder lookups applied
-[21:42:18] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:42:19] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 698 advancements
-[21:42:19] [Server thread/INFO] [RTG]: World Seed: -7237516358209797788
-[21:42:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:42:19] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:42:19] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:42:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[21:42:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[21:42:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
-[21:42:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 55%
-[21:42:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
-[21:42:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.003s)! For help, type "help" or "?"
-[21:42:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:42:25] [Server thread/INFO] [FML]: Unloading dimension 1
-[21:42:25] [Server thread/INFO] [FML]: Unloading dimension 7
-[21:45:20] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[21:45:20] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[21:45:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:45:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.176.71:13705] logged in with entity id 657 at (-3.057132710953427, 71.0, 106.69907294320753)
-[21:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[21:45:23] [Thread-6/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[21:45:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2203ms behind, skipping 44 tick(s)
-[21:47:17] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[21:47:17] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,malilib@0.10.0-dev.23,tweakeroo@0.10.0-dev.20201007.231650,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[21:47:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:47:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Hot_Ghost[/122.231.240.107:63198] logged in with entity id 2730 at (-10.118194683885699, 66.0, 95.72265102342084)
-[21:47:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost joined the game
-[21:47:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:48:15] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:48:30] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:48:46] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> woc
-[21:49:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 好大
-[21:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 那个
-[21:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> ?
-[21:49:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 我打过138血的
-[21:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 干他丫的
-[21:51:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:52:06] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:52:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 帮我附个魔？
-[21:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我要附魔稿子
-[21:52:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:52:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:52:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> aazhe
-[21:53:42] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -73 66 2727  - Origin: BlockPos{x=-73, y=64, z=2727} - Complete: false - Seed: -3921673421859035417 - ID: 792e459f-046c-2b3c-fc1f-bdcd9fe1bd37
-[21:53:42] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: lushtomb - TP Command: /tp 2647 66 7  - Origin: BlockPos{x=2647, y=64, z=7} - Complete: false - Seed: 8821312780496155020 - ID: e83acc8c-4bf1-2507-37f3-670ed010950a
-[21:53:42] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: lushtomb - TP Command: /tp -73 66 -2713  - Origin: BlockPos{x=-73, y=64, z=-2713} - Complete: false - Seed: 3890925513251671983 - ID: 48cb330c-e18b-5f45-5825-bbf508759e90
-[21:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> afk
-[21:53:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Hot_Ghost lost connection: Disconnected
-[21:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost left the game
-[21:58:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:58:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:59:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[21:59:37] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:00:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:00:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:01:14] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:01:29] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:04:01] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:04:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:06:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:06:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:06:37] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:06:47] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[22:06:47] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,malilib@0.10.0-dev.23,tweakeroo@0.10.0-dev.20201007.231650,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[22:06:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:06:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Hot_Ghost[/122.231.240.107:63704] logged in with entity id 68811 at (-0.8431405205337844, 65.0, 96.5623369396587)
-[22:06:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost joined the game
-[22:06:52] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:07:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:07:48] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:08:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:08:40] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:13:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:13:51] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:14:07] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:14:22] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:14:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> wtm
-[22:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> ???
-[22:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 把石头挖了...
-[22:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> kan shu ding
-[22:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> oo
-[22:18:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[22:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> chi de
-[22:19:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> diule
-[22:20:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost is bleeding...
-[22:20:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> jiu
-[22:20:38] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> mayday!mayday!mayday!
-[22:22:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:22:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:24:31] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:24:46] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[22:25:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Hot_Ghost: Teleported Hot_Ghost to Spirit_Autumn]
-[22:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost is bleeding...
-[22:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> si
-[22:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 嘶
-[22:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Dark  Warg
-[22:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Hot_Ghost to Hot_Ghost]
-[22:26:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[22:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Dark  Warg
-[22:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost was killed by magic
-[22:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> MALE
-[22:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[22:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost is bleeding...
-[22:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost was killed by magic
-[22:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Warg Lvl 2
-[22:27:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:28:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:28:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[22:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> QUE SHI WU
-[22:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 有没有
-[22:29:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 碳叶
-[22:30:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 莫得
-[22:30:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 你身上
-[22:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> woc
-[22:30:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> ooo 找到了 吓死我了
-[22:31:09] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:32:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:32:37] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Hot_Ghost: Teleported Hot_Ghost to Spirit_Autumn]
-[22:33:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:34:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost is bleeding...
-[22:34:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:34:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Hot_Ghost to Spirit_Autumn]
-[22:35:06] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:35:21] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:36:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:37:01] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:38:09] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:38:15] [Server thread/INFO] [ic2.PlayerActivity]: Player Hot_Ghost/c6017b19-578b-33e7-bc5f-edeb052cb7ae used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: -17/76/91.
-[22:38:16] [Server thread/INFO] [ic2.PlayerActivity]: Player Hot_Ghost/c6017b19-578b-33e7-bc5f-edeb052cb7ae used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: -17/76/92.
-[22:38:40] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:39:20] [Server thread/INFO] [ic2.PlayerActivity]: Player Hot_Ghost/c6017b19-578b-33e7-bc5f-edeb052cb7ae used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: -17/160/89.
-[22:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> woc
-[22:42:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 储电盒炸了
-[22:43:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[22:43:33] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:43:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> chi de
-[22:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 没有
-[22:44:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 吃的腐肉
-[22:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 等下去找吃的
-[22:44:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 可
-[22:44:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我们的储电盒炸了
-[22:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 活不下去了
-[22:44:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 电压过高 裂开
-[22:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 啊这
-[22:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 输入电压太高了 它裂开了
-[22:45:47] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:46:02] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:47:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 出门骗牛去了
-[22:47:58] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:48:13] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:50:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:50:40] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:50:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:51:07] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:51:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:51:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:51:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 草
-[22:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 电线全烧了
-[22:52:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:53:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 草
-[22:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 发电机也烧了？！
-[22:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我tm
-[22:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我去单人试试
-[22:53:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Hot_Ghost lost connection: Disconnected
-[22:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost left the game
-[22:54:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:54:42] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:55:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:55:37] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:55:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:55:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn has made the advancement [The Parrots and the Bats]
-[22:57:14] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:57:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:58:16] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[22:58:16] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,malilib@0.10.0-dev.23,tweakeroo@0.10.0-dev.20201007.231650,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[22:58:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:58:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Hot_Ghost[/122.231.240.107:64853] logged in with entity id 216096 at (-6.696047181025091, 73.0, 85.12479260065612)
-[22:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost joined the game
-[22:58:18] [Thread-7/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[22:58:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[22:58:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 咋样
-[22:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 吐了 得用金的导线
-[22:59:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 性价比最高
-[22:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 铜线会烧掉
-[22:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 高压线损耗忒恶心
-[22:59:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 啊这
-[23:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 草 我的铜线 啊！！
-[23:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 100多根就烧没了
-[23:01:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:01:48] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:03:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 学校还没熄灯？
-[23:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 11.30
-[23:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> ooo
-[23:03:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 3q
-[23:04:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 骨头给我
-[23:05:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:05:40] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:05:52] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:06:08] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:08:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:08:18] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:10:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 采矿机
-[23:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> ?
-[23:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 就你之前给我的那个泥土石头的
-[23:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 钻头？
-[23:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> dui
-[23:11:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 干啥？？
-[23:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我现在在用 用完给你
-[23:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 还能造吗
-[23:11:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 能 没钻石
-[23:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> az
-[23:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 行
-[23:12:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> ok
-[23:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> zuantou geini
-[23:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 在挖矿机里面 自己拿
-[23:14:15] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:14:34] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:14:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 不缺电了 好耶
-[23:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> (暂时
-[23:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 我下矿洞了
-[23:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> okok
-[23:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我也准备下去
-[23:16:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:17:11] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:17:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[23:18:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:18:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[23:18:19] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 看到钻石别直接挖
-[23:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 等时运
-[23:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 钻！
-[23:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> az
-[23:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 4 原矿 （精准挖了）
-[23:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 铀
-[23:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 挖
-[23:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 没吃的 裂开
-[23:30:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Timed out
-[23:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[23:30:37] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[23:30:37] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[23:30:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[23:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[23:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost has made the advancement [The Parrots and the Bats]
-[23:31:50] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:31:55] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:32:07] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:32:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.io.IOException: Can't serialize unregistered packet
-[23:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[23:32:22] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:32:32] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[23:32:32] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[23:32:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[23:32:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/36.28.133.177:49292] logged in with entity id 308372 at (62.30000001192093, 14.0, 32.06962470720814)
-[23:32:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[23:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 杨师傅
-[23:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> ?
-[23:32:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 有怪物会打牛
-[23:33:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 牛还有吗
-[23:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 有
-[23:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我把怪打死了
-[23:35:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 搭个架子？
-[23:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 不造
-[23:35:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:36:08] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:36:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[23:37:01] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:37:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我看到你丢了铜矿出来
-[23:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 然后烧掉了
-[23:37:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> cao
-[23:37:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 思绪受阻.jpg
-[23:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 脸黑人只挖煤
-[23:40:18] [Server thread/INFO] [ic2.PlayerActivity]: Player Hot_Ghost/c6017b19-578b-33e7-bc5f-edeb052cb7ae used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=solar_distiller] (te SolarDestiller) at dim 0: 0/65/97.
-[23:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[23:40:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 饿死了
-[23:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> woshabi
-[23:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[23:41:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost is bleeding...
-[23:42:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 嘶
-[23:42:14] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 你起还是我起来？
-[23:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost was shot by Skeleton
-[23:42:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was shot by Skeleton
-[23:44:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 草 储电盒又炸了？？？？
-[23:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> az
-[23:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 睡觉吧
-[23:46:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:46:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 我搞一下牛棚
-[23:46:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> ok
-[23:46:47] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 晚上不敢搞
-[23:47:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 现在电脑卡
-[23:47:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 233
-[23:48:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:49:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:50:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:50:37] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:52:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:52:10] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:52:33] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:52:48] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:53:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 3q
-[23:53:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:53:31] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:55:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:56:30] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:57:15] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:57:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:57:35] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
-[23:57:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> sleep
+[00:01:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[00:01:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 睡个觉
+[00:01:53] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:03:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 我先睡了 困死
+[00:03:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 彳亍
+[00:03:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Hot_Ghost> 88
+[00:03:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Hot_Ghost lost connection: Disconnected
+[00:03:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost left the game
+[00:08:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[00:09:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 31.5, 65.0, 137.5]
+[00:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 7.5, 79.0, 96.5]
+[00:15:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[00:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
+[07:54:15] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[07:54:15] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,malilib@0.10.0-dev.23,tweakeroo@0.10.0-dev.20201007.231650,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[07:54:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:54:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Hot_Ghost[/122.231.240.107:50808] logged in with entity id 428669 at (-1.7015669464024084, 65.0, 95.656596067716)
+[07:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost joined the game
+[07:54:17] [Thread-8/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[07:54:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[07:55:03] [Server thread/INFO] [FML]: Unloading dimension -1
+[07:55:20] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[07:55:43] [Server thread/INFO] [FML]: Unloading dimension -1
+[07:57:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[07:58:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:01:09] [Server thread/INFO] [ic2.PlayerActivity]: Player Hot_Ghost/c6017b19-578b-33e7-bc5f-edeb052cb7ae used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -10/62/88.
+[08:02:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:02:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:02:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:02:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:04:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:04:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:04:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:05:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:06:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:07:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:08:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:08:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:10:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:10:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:13:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:13:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:15:44] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:16:02] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:16:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:16:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:20:38] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:20:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:27:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:27:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:28:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:28:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:29:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:29:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:33:55] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:34:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:35:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:35:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:36:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:37:03] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:38:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:38:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:40:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:40:37] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:42:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:42:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:46:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:46:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Hot_Ghost lost connection: You have been idle for too long!
+[08:46:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost left the game
+[08:46:33] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:46:40] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[08:46:40] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,malilib@0.10.0-dev.23,tweakeroo@0.10.0-dev.20201007.231650,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[08:46:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:46:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Hot_Ghost[/122.231.240.107:51997] logged in with entity id 559509 at (-0.588895114549447, 65.0, 96.67731324057893)
+[08:46:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost joined the game
+[08:46:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:47:16] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:49:52] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:49:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:53:58] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:54:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:56:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[08:56:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:59:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:00:05] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:00:15] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:00:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:01:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:01:52] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:05:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hot_Ghost moved wrongly!
+[09:08:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:08:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:09:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:09:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:10:11] [Server thread/INFO] [ic2.PlayerActivity]: Player Hot_Ghost/c6017b19-578b-33e7-bc5f-edeb052cb7ae used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -10/62/75.
+[09:11:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:11:34] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:20:50] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:21:05] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:22:34] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:22:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:27:36] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:27:52] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:36:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Hot_Ghost lost connection: You have been idle for too long!
+[09:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost left the game
+[09:38:04] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[09:38:04] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,malilib@0.10.0-dev.23,tweakeroo@0.10.0-dev.20201007.231650,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[09:38:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[09:38:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Hot_Ghost[/122.231.240.107:53187] logged in with entity id 643664 at (-5.627648715228366, 63.0, 83.50344362318793)
+[09:38:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hot_Ghost joined the game
+[09:38:07] [Thread-9/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[09:40:14] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:40:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3105ms behind, skipping 62 tick(s)
+[09:40:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:41:58] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:42:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:44:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:44:36] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:44:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:45:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:46:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:46:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:47:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:48:08] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:49:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:49:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:52:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:52:11] [Server thread/INFO] [FML]: Unloading dimension -1
+[09:58:09] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[09:58:11] [Server thread/INFO] [FML]: Unloading dimension -1
