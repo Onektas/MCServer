@@ -189,3 +189,14 @@
 [15:57:38] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
 [15:58:09] [Server thread/INFO] [FML]: Unloading dimension 7
 [15:58:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[16:01:01] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[16:01:10] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:03:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
+[16:08:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ lost connection: Disconnected
+[16:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ left the game
+[16:09:01] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@101cfcba)
+[16:09:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 31.174420241776374,-29.0,-42.127633859667185
+[16:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! -32.67372060521974,29.0,41.18442709815726
+[16:10:09] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:52:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[16:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
