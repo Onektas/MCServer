@@ -32,3 +32,30 @@
 [09:47:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.235.145:50003] logged in with entity id 238500 at (0.4069058192909258, 65.0, 98.57388946515104)
 [09:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
 [09:47:59] [Thread-11/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[10:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[10:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:24:05] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=industrial_workbench] (te IndustrialWorkbench) at dim 0: 12/75/77.
+[10:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[10:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[10:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[10:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[10:40:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[10:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:48:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:48:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[10:50:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[10:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[10:55:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[10:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[11:12:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
+[11:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[11:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 145.5, 64.0, -53.5]
+[11:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[11:39:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ lost connection: Disconnected
+[11:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ left the game
