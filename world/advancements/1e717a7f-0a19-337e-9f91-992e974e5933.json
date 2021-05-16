@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "flammpfeil.slashblade:slashblade": {
+    "criteria": {
+      "crafting": "2021-05-16 00:12:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2021-05-15 21:07:57 +0800"
@@ -1115,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2021-05-16 09:56:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-15 20:50:14 +0800"
@@ -1455,6 +1467,7 @@
       "forest_hills": "2021-05-12 22:24:52 +0800",
       "plains": "2021-05-12 22:22:35 +0800",
       "taiga": "2021-05-12 22:16:11 +0800",
+      "taiga_hills": "2021-05-16 00:20:27 +0800",
       "extreme_hills": "2021-05-13 22:30:57 +0800",
       "roofed_forest": "2021-05-12 22:22:06 +0800",
       "river": "2021-05-12 22:19:07 +0800"
