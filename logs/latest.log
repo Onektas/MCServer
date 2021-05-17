@@ -21,3 +21,80 @@
 [15:28:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.177.104:2035] logged in with entity id 636230 at (-0.30271283648960273, 65.0, 96.07114956619395)
 [15:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
 [15:28:09] [Thread-19/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[16:09:05] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:09:05] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[16:09:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:09:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.235.190:56661] logged in with entity id 652952 at (0.5976064023176195, 73.0, 99.5848771217446)
+[16:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
+[16:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Sculpture_]
+[16:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[16:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[16:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[16:16:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[16:17:12] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -10/62/63.
+[16:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[16:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[16:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[16:22:46] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -10/62/50.
+[16:23:04] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -10/64/51.
+[16:23:20] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -10/63/51.
+[16:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 145.5, 64.0, -53.5]
+[16:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
+[16:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[16:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[16:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[16:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[16:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[16:39:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[16:42:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[16:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[16:46:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[16:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[16:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[16:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ is bleeding...
+[16:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 79.0, 102.5]
+[16:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[16:59:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Set own game mode to Creative Mode]
+[17:00:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
+[17:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Given [Monster Spawner] * 1 to Sculpture_]
+[17:05:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[17:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[17:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Given [Monster Spawner] * 1 to Sculpture_]
+[17:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[17:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[17:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 70.0, 112.5]
+[17:08:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[17:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Set own game mode to Survival Mode]
+[17:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
+[17:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[17:16:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[17:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[17:21:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 5.5, 72.0, 106.5]
+[17:22:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
+[17:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[17:23:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
+[17:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
+[17:24:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
+[17:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 3.5, 72.0, 103.5]
+[17:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[17:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[17:29:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[17:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[17:30:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[17:31:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 69.0, 113.5]
+[17:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 75.0, 84.5]
+[17:34:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
+[17:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[17:38:34] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=miner_active] (te Miner) at dim 0: -10/62/50.
+[17:41:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[17:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
+[17:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 7.5, 79.0, 94.5]
+[17:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[17:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1.5, 79.0, 90.5]
+[17:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -8.5, 73.0, 88.5]
+[17:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[17:47:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 100.0, 107.5]
+[17:49:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ lost connection: Disconnected
+[17:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ left the game
+[17:49:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[17:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
