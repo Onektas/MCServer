@@ -129,3 +129,40 @@
 [22:59:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [22:59:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.177.104:8143] logged in with entity id 765458 at (-0.9726681922547745, 65.0, 96.6219138882111)
 [22:59:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
+[23:03:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Timed out
+[23:03:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
+[23:07:44] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:07:44] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[23:07:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:07:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/36.28.133.177:49394] logged in with entity id 766580 at (-11.31804487556975, 72.0, 108.50749032602471)
+[23:07:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
+[23:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[23:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[23:15:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
+[23:18:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[23:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -17.5, 70.0, 111.5]
+[23:26:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 105.5]
+[23:29:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[23:30:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[23:31:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Zombie
+[23:31:15] [Thread-21/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[23:32:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[23:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 110.5]
+[23:35:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[23:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -14.5, 70.0, 110.5]
+[23:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[23:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 110.5]
+[23:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[23:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 111.5]
+[23:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[23:44:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
+[23:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 110.5]
+[23:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 107.5]
+[23:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[23:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[23:50:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -13.5, 104.0, 107.5]
+[23:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 111.5]
+[23:51:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[23:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 79.0, 100.5]
+[23:55:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[23:55:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
