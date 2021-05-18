@@ -252,3 +252,26 @@
 [21:48:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1559.5, 65.0, -251.5]
 [21:48:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
 [21:48:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
+[22:14:03] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:14:03] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[22:14:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:14:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.233.102:50124] logged in with entity id 968402 at (-11.882371343189451, 81.0, 81.90397464572386)
+[22:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
+[22:14:06] [Thread-25/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[22:41:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ lost connection: You have been idle for too long!
+[22:41:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ left the game
+[22:42:24] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:42:24] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[22:42:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:42:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.233.102:56889] logged in with entity id 974923 at (-0.5541080862968841, 65.0, 97.16333549537805)
+[22:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
+[22:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
+[22:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> e
+[22:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
+[22:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[22:53:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
+[22:54:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
+[22:54:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
+[22:58:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[22:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 117.5, 66.0, -3.5]
+[22:59:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
