@@ -253,3 +253,31 @@
 [19:55:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.234.146:50123] logged in with entity id 261531 at (17.97387399113124, 75.0, 79.71516346222216)
 [19:55:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
 [19:55:41] [Thread-10/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[20:00:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 12.5, 75.0, 80.5]
+[20:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:08:35] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 35/77/79.
+[20:08:37] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=crop_harvester] (te CropHarvester) at dim 0: 35/76/79.
+[20:09:41] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=wind_generator] (te WindGenerator) at dim 0: 35/82/79.
+[20:18:00] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 36/76/79.
+[20:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 82.5]
+[20:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[20:42:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[20:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[20:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 143.5, 66.0, 14.5]
+[20:44:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:47:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[20:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[20:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
+[20:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 10.5, 75.0, 75.5]
+[20:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[20:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
+[20:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
+[20:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
+[20:59:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
+[20:59:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[21:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 12.5, 75.0, 81.5]
