@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-05-19 00:06:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-05-13 21:30:50 +0800"
@@ -415,7 +421,8 @@
       "mutton": "2021-05-13 15:50:07 +0800",
       "bread": "2021-05-13 16:36:08 +0800",
       "rotten_flesh": "2021-05-13 16:19:35 +0800",
-      "cooked_chicken": "2021-05-13 15:18:41 +0800"
+      "cooked_chicken": "2021-05-13 15:18:41 +0800",
+      "cooked_salmon": "2021-05-19 00:05:43 +0800"
     },
     "done": false
   },
@@ -723,6 +730,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-05-13 15:12:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-05-19 00:06:05 +0800"
     },
     "done": true
   },

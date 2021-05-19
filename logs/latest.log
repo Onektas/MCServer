@@ -1,251 +1,50 @@
-[23:03:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:03:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:03:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
-[23:03:22] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_292, running on Linux:amd64:4.18.0-240.22.1.el8_3.x86_64, installed at /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.292.b10-0.el8_3.x86_64/jre
-[23:03:22] [main/INFO] [FML]: Searching /root/MCServer/./mods for mods
-[23:03:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in S_C_玩家救援前置.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[23:03:22] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[23:03:22] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[23:03:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:03:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:03:25] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[23:03:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:03:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:03:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:03:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:03:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[23:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[23:03:37] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
-[23:03:37] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[23:03:37] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[23:03:38] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[23:03:38] [Server thread/INFO] [FML]: Searching /root/MCServer/./mods for mods
-[23:03:39] [Server thread/WARN] [FML]: Mod veinminer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
-[23:03:39] [Server thread/WARN] [FML]: Mod veinminermodsupport is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
-[23:03:39] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
-[23:03:41] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[23:03:42] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
-[23:03:42] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[23:03:42] [Server thread/WARN] [FML]: Missing English translation for betterpingdisplay: assets/betterpingdisplay/lang/en_us.lang
-[23:03:42] [Server thread/WARN] [FML]: Missing English translation for veinminermodsupport: assets/veinminermodsupport/lang/en_us.lang
-[23:03:42] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
-[23:03:42] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[23:03:43] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, jei, betterpingdisplay, veinminer, veinminermodsupport, falling_tree, uppers, ic2, lycanitesmobs, uncraftingtable, flammpfeil.slashblade, chesttransporter, travelersbackpack, twilightforest, ironchest, creeperconfetti, playerrevive, creativecore, rtg] at CLIENT
-[23:03:43] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, jei, betterpingdisplay, veinminer, veinminermodsupport, falling_tree, uppers, ic2, lycanitesmobs, uncraftingtable, flammpfeil.slashblade, chesttransporter, travelersbackpack, twilightforest, ironchest, creeperconfetti, playerrevive, creativecore, rtg] at SERVER
-[23:03:47] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[23:03:47] [Server thread/INFO] [FML]: Found 1488 ObjectHolder annotations
-[23:03:47] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[23:03:47] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[23:03:47] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[23:03:47] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[23:03:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile.uppers.upper`, expected `uppers`. This could be a intended override, but in most cases indicates a broken mod.
-[23:03:52] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[23:03:52] [Forge Version Check/INFO] [forge.VersionCheck]: [creeperconfetti] Starting version check at https://raw.githubusercontent.com/SR2610/MicroMods/master/CreeperConfetti/confettiUpdate.json
-[23:03:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[23:03:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[23:03:56] [Forge Version Check/INFO] [forge.VersionCheck]: [uncraftingtable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.12/update.json
-[23:03:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[23:03:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[23:04:01] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[23:04:02] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config version created successfully.
-[23:04:02] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config general created successfully.
-[23:04:02] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_yeti_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_yeti_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
-[23:04:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
-[23:04:03] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
-[23:04:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config spawning created successfully.
-[23:04:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[23:04:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[23:04:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:04:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:04:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:04:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 86 JSON Spawners...
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 86 JSON Spawners Loaded In Total.
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 5 JSON Dungeon Themes...
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 5 JSON Dungeon Themes Loaded In Total.
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 5 JSON Dungeon Schematics...
-[23:04:06] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 5 JSON Dungeon Schematics Loaded In Total.
-[23:04:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[23:04:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[23:04:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[23:04:06] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[23:04:07] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[23:04:07] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[23:04:08] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[23:04:08] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[23:04:08] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[23:04:08] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[23:04:08] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[23:04:08] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[23:04:08] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:04:09] [Server thread/INFO] [FML]: Applying holder lookups
-[23:04:09] [Server thread/INFO] [FML]: Holder lookups applied
-[23:04:10] [Server thread/INFO] [FML]: Applying holder lookups
-[23:04:10] [Server thread/INFO] [FML]: Holder lookups applied
-[23:04:11] [Server thread/INFO] [FML]: Applying holder lookups
-[23:04:11] [Server thread/INFO] [FML]: Holder lookups applied
-[23:04:11] [Server thread/INFO] [FML]: Applying holder lookups
-[23:04:11] [Server thread/INFO] [FML]: Holder lookups applied
-[23:04:11] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:04:11] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[23:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[23:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[23:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[23:04:11] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[23:04:11] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:04:11] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[23:04:11] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:04:11] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:04:12] [Server thread/INFO] [FML]: Applying holder lookups
-[23:04:12] [Server thread/INFO] [FML]: Holder lookups applied
-[23:04:13] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:04:13] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:04:14] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[23:04:14] [Server thread/INFO] [ic2.General]: ic2 version 2.8.221-ex112 loaded.
-[23:04:15] [Server thread/WARN] [RTG]: .= === = ================================ = ================================================== =.
-[23:04:15] [Server thread/WARN] [RTG]: ||                 RTG could not find realistic versions of the following biomes               ||
-[23:04:15] [Server thread/WARN] [RTG]: || === = ================================ = ================================================== ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  ID | Biome Class                      | Registry Name                                      ||
-[23:04:15] [Server thread/WARN] [RTG]: || --- - -------------------------------- - -------------------------------------------------- ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  40 | TFBiomeTwilightLake              | twilightforest:twilight_lake                       ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  41 | TFBiomeBase                      | twilightforest:twilight_forest                     ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  42 | TFBiomeTwilightForestVariant     | twilightforest:dense_twilight_forest               ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  43 | TFBiomeHighlands                 | twilightforest:twilight_highlands                  ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  44 | TFBiomeMushrooms                 | twilightforest:mushroom_forest                     ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  45 | TFBiomeSwamp                     | twilightforest:twilight_swamp                      ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  46 | TFBiomeStream                    | twilightforest:twilight_stream                     ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  47 | TFBiomeSnow                      | twilightforest:snowy_forest                        ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  48 | TFBiomeGlacier                   | twilightforest:twilight_glacier                    ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  49 | TFBiomeClearing                  | twilightforest:twilight_clearing                   ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  50 | TFBiomeOakSavanna                | twilightforest:oak_savannah                        ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  51 | TFBiomeFireflyForest             | twilightforest:firefly_forest                      ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  52 | TFBiomeDeepMushrooms             | twilightforest:deep_mushroom_forest                ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  53 | TFBiomeDarkForest                | twilightforest:dark_forest                         ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  54 | TFBiomeEnchantedForest           | twilightforest:enchanted_forest                    ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  55 | TFBiomeFireSwamp                 | twilightforest:fire_swamp                          ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  56 | TFBiomeDarkForestCenter          | twilightforest:dark_forest_center                  ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  57 | TFBiomeFinalPlateau              | twilightforest:highlands_center                    ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  58 | TFBiomeThornlands                | twilightforest:thornlands                          ||
-[23:04:15] [Server thread/WARN] [RTG]: ||  59 | TFBiomeSpookyForest              | twilightforest:spooky_forest                       ||
-[23:04:15] [Server thread/WARN] [RTG]: `= === | ================================ | ================================================== =`
-[23:04:15] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
-[23:04:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[23:04:16] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[23:04:16] [Server thread/INFO] [FML]: Applying holder lookups
-[23:04:16] [Server thread/INFO] [FML]: Holder lookups applied
-[23:04:17] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[23:04:18] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 698 advancements
-[23:04:18] [Server thread/INFO] [RTG]: World Seed: -7237516358209797788
-[23:04:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[23:04:18] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[23:04:18] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[23:04:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[23:04:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[23:04:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
-[23:04:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 43%
-[23:04:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
-[23:04:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.658s)! For help, type "help" or "?"
-[23:04:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:04:25] [Server thread/INFO] [FML]: Unloading dimension 1
-[23:04:25] [Server thread/INFO] [FML]: Unloading dimension 7
-[23:48:13] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[23:48:14] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[23:48:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[23:48:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/36.28.28.30:5381] logged in with entity id 654 at (-1559.5, 65.0, -251.5)
-[23:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[23:48:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -73 66 2727  - Origin: BlockPos{x=-73, y=64, z=2727} - Complete: false - Seed: -3921673421859035417 - ID: 792e459f-046c-2b3c-fc1f-bdcd9fe1bd37
-[23:48:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: lushtomb - TP Command: /tp 2647 66 7  - Origin: BlockPos{x=2647, y=64, z=7} - Complete: false - Seed: 8821312780496155020 - ID: e83acc8c-4bf1-2507-37f3-670ed010950a
-[23:48:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: lushtomb - TP Command: /tp -73 66 -2713  - Origin: BlockPos{x=-73, y=64, z=-2713} - Complete: false - Seed: 3890925513251671983 - ID: 48cb330c-e18b-5f45-5825-bbf508759e90
-[23:48:16] [Thread-6/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[23:48:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2861ms behind, skipping 57 tick(s)
-[23:50:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3293ms behind, skipping 65 tick(s)
-[23:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -944.5, 11.0, 725.5]
-[23:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[23:51:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[23:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[23:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 70.0, 110.5]
-[23:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[23:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[23:56:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[00:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[00:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:18:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 110.5]
+[00:19:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 110.5]
+[00:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:29:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
+[00:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 110.5]
+[00:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:34:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:37:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:43:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[00:46:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[00:46:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
+[00:48:03] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:48:03] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[00:48:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:48:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/36.28.28.30:5349] logged in with entity id 38768 at (-6.181695371462935, 63.0, 86.60741726549708)
+[00:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
+[00:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[00:50:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 100.0, 110.5]
+[00:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
+[00:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
+[00:57:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -15.5, 73.0, 81.5]
+[00:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
+[00:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[00:58:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[01:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[01:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 20.5, 74.0, 98.5]
+[01:02:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[01:29:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[01:35:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[01:38:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[01:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
