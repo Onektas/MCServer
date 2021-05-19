@@ -1,361 +1,299 @@
-[00:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[00:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:18:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 110.5]
-[00:19:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 110.5]
-[00:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:29:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
-[00:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 110.5]
-[00:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:34:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:37:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:43:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[00:46:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[00:46:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[00:48:03] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[00:48:03] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[00:48:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:48:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/36.28.28.30:5349] logged in with entity id 38768 at (-6.181695371462935, 63.0, 86.60741726549708)
-[00:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[00:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[00:50:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 100.0, 110.5]
-[00:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[00:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
-[00:57:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -15.5, 73.0, 81.5]
-[00:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[00:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[00:58:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[01:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[01:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 20.5, 74.0, 98.5]
-[01:02:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[01:29:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[01:35:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[01:38:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
-[01:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[15:10:00] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[15:10:00] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[15:10:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[15:10:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.185.98:2735] logged in with entity id 69524 at (-0.3118475610833992, 65.0, 96.57956288909674)
-[15:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[15:10:02] [Thread-7/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[15:10:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
-[15:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 109.5]
-[15:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[15:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[15:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -9.5, 104.0, 107.5]
-[15:27:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[15:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[15:29:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[15:35:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[15:40:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 104.0, 107.5]
-[15:41:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[15:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[15:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[15:44:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[15:59:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: You have been idle for too long!
-[15:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[16:09:38] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[16:09:38] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[16:09:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:09:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.232.82:50182] logged in with entity id 78165 at (477.4117967121309, 64.0, -358.2805812801325)
-[16:09:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
-[16:09:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[16:16:29] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[16:16:29] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[16:16:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:16:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.185.98:5044] logged in with entity id 81795 at (-12.38804807141891, 100.33971555078223, 107.02034967959897)
-[16:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[16:16:31] [Thread-8/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[16:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[16:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 你啥时候来到
-[16:23:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> de
-[16:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> sleep
-[16:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
-[16:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
-[16:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 109.5]
-[16:27:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
-[16:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[16:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
-[16:30:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 145.5, 64.0, -53.5]
-[16:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[16:30:52] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: 11/160/71.
-[16:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[16:31:18] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: 11/160/71.
-[16:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:37:38] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[16:37:38] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[16:37:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:37:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.185.98:5844] logged in with entity id 93164 at (0.3327988572986893, 73.0, 96.3241754518188)
-[16:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[16:39:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[16:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[16:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 109.5]
-[16:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 105.5]
-[16:41:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[16:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 室友都醒了，可以正常说华了
-[16:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[16:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 100.5]
-[16:49:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:49:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[16:51:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[16:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:52:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:52:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[16:53:11] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: 11/160/71.
-[16:53:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[16:54:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[16:54:16] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=mfe] (te ElectricMFE) at dim 0: 11/160/71.
-[16:54:36] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: 11/160/71.
-[16:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:56:29] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=mfe] (te ElectricMFE) at dim 0: 11/74/70.
-[16:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:57:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[16:57:21] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=mfe] (te ElectricMFE) at dim 0: 11/77/71.
-[16:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[16:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[17:00:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[17:00:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -15.5, 70.0, 109.5]
-[17:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[17:02:22] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: 11/160/72.
-[17:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[17:03:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -9.5, 104.0, 108.5]
-[17:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[17:04:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 70.0, 111.5]
-[17:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[17:05:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[17:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[17:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 100.0, 114.5]
-[17:08:15] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=industrial_workbench] (te IndustrialWorkbench) at dim 0: 12/75/78.
-[17:09:01] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=industrial_workbench] (te IndustrialWorkbench) at dim 0: 8/75/82.
-[17:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 70.0, 110.5]
-[17:11:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[17:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[17:12:48] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=recycler] (te Recycler) at dim 0: 10/75/77.
-[17:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:15:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[17:16:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 100.0, 106.5]
-[17:16:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[17:17:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[17:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[17:18:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
-[17:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
-[17:22:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[17:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[17:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 2.5, 73.0, 98.5]
-[17:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[17:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[17:44:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
-[17:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
-[17:50:18] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[17:50:18] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[17:50:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:50:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.185.98:8249] logged in with entity id 151604 at (-0.5681437478155009, 65.0, 95.5560905228005)
-[17:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
-[17:50:20] [Thread-9/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[17:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[17:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 100.0, 106.5]
-[17:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 72.0, 102.5]
-[17:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 104.0, 106.5]
-[17:54:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 12.5, 75.0, 81.5]
-[17:55:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
-[17:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 5.5, 70.0, 111.5]
-[17:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -216.5, 110.0, -2889.5]
-[17:57:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -10.5, 73.0, 88.5]
-[18:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ is bleeding...
-[18:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Creative Mode]
-[18:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Set own game mode to Survival Mode]
-[18:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 100.0, 105.5]
-[18:10:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -6.5, 100.0, 106.5]
-[18:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
-[18:13:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 1.5, 79.0, 94.5]
-[18:22:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[18:23:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[18:25:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved wrongly!
-[18:25:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[18:37:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[18:41:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[18:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
-[18:46:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -2.5, 79.0, 101.5]
-[18:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 47.5, 63.0, -83.5]
-[18:50:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[18:51:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Sculpture_ to Spirit_Autumn]
-[18:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[18:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[18:53:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[18:55:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[18:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[18:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[18:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 63.0, 88.5]
-[18:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[19:00:45] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=down,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 35/77/79.
-[19:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[19:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
-[19:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
-[19:02:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[19:03:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[19:03:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[19:06:38] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=wind_generator_active] (te WindGenerator) at dim 0: 35/82/79.
-[19:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 79.5]
-[19:15:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 2.5, 73.0, 78.5]
-[19:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[19:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[19:16:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:18:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 73.0, 84.5]
-[19:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:21:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -9.5, 104.0, 106.5]
-[19:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:23:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 82.5]
-[19:24:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ lost connection: Disconnected
-[19:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ left the game
-[19:24:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 10.5, 75.0, 81.5]
-[19:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 10.5, 75.0, 81.5]
-[19:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 84.5]
-[19:32:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:34:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 77.0, 80.5]
-[19:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 17.5, 75.0, 87.5]
-[19:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 15.5, 75.0, 80.5]
-[19:41:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[19:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 14.5, 75.0, 80.5]
-[19:55:39] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[19:55:39] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
-[19:55:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:55:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.234.146:50123] logged in with entity id 261531 at (17.97387399113124, 75.0, 79.71516346222216)
-[19:55:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
-[19:55:41] [Thread-10/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
-[20:00:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 12.5, 75.0, 80.5]
-[20:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:08:35] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 35/77/79.
-[20:08:37] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=crop_harvester] (te CropHarvester) at dim 0: 35/76/79.
-[20:09:41] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=wind_generator] (te WindGenerator) at dim 0: 35/82/79.
-[20:18:00] [Server thread/INFO] [ic2.PlayerActivity]: Player Sculpture_/1e717a7f-0a19-337e-9f91-992e974e5933 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 36/76/79.
-[20:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 82.5]
-[20:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[20:42:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[20:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[20:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 143.5, 66.0, 14.5]
-[20:44:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:47:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[20:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[20:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 79.5]
-[20:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 10.5, 75.0, 75.5]
-[20:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[20:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[20:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[20:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[20:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[20:59:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[20:59:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
-[21:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 12.5, 75.0, 81.5]
-[21:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:04:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:05:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 风力动能发生机+动能发电机
-[21:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 100.0, 106.5]
-[21:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[21:08:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 10.5, 160.0, 69.5]
-[21:09:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 145.5, 64.0, -53.5]
-[21:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:10:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:11:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:19:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:19:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -11.5, 104.0, 104.5]
-[21:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[21:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -20.5, 100.0, 106.5]
-[21:23:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:23:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 好小听不见
-[21:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 你还在童话？
-[21:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 声音好小
-[21:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 和之前不一样
-[21:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 完全听不见
-[21:25:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
-[21:25:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
-[21:25:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
-[21:27:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[21:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:28:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -21.5, 100.0, 106.5]
-[21:28:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:30:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:30:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[21:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:34:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -18.5, 172.0, 106.5]
-[21:34:59] [Server thread/INFO] [ic2.PlayerActivity]: Player Spirit_Autumn/1026d7c4-3775-3de2-8155-ae3900429e38 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: -19/171/106.
-[21:37:54] [Server thread/INFO] [ic2.PlayerActivity]: Player Spirit_Autumn/1026d7c4-3775-3de2-8155-ae3900429e38 used a wrench to remove the block ic2:te[facing=down,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: -21/165/106.
-[21:38:39] [Server thread/INFO] [ic2.PlayerActivity]: Player Spirit_Autumn/1026d7c4-3775-3de2-8155-ae3900429e38 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: -20/162/106.
-[21:40:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:41:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:41:47] [Server thread/INFO] [ic2.PlayerActivity]: Player Spirit_Autumn/1026d7c4-3775-3de2-8155-ae3900429e38 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: -19/162/106.
-[21:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -0.5, 65.0, 96.5]
-[21:42:29] [Server thread/INFO] [ic2.PlayerActivity]: Player Spirit_Autumn/1026d7c4-3775-3de2-8155-ae3900429e38 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: -19/162/106.
-[21:42:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 12.5, 75.0, 82.5]
-[21:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[21:48:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[21:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ has made the advancement [We Need to Go Deeper]
-[21:48:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2610ms behind, skipping 52 tick(s)
-[21:49:11] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:49:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! -9.535729573543032,-8.0,87.35691558979802
-[21:49:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[21:49:28] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:50:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[21:50:38] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:51:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[21:51:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved too quickly! 8.945263910916028,8.0,-88.02046712195218
-[21:51:50] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:51:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21c7ed13)
-[21:52:09] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
-[21:54:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
-[21:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 73.0, 60.5]
+[22:01:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:01:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:01:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:01:35] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[22:01:35] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_292, running on Linux:amd64:4.18.0-240.22.1.el8_3.x86_64, installed at /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.292.b10-0.el8_3.x86_64/jre
+[22:01:36] [main/INFO] [FML]: Searching /root/MCServer/./mods for mods
+[22:01:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in S_C_玩家救援前置.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:01:36] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:01:36] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[22:01:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:01:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:01:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:01:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:01:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:01:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:01:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:01:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:01:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:01:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:01:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:01:41] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:01:50] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
+[22:01:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:01:51] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:01:51] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:01:52] [Server thread/INFO] [FML]: Searching /root/MCServer/./mods for mods
+[22:01:53] [Server thread/WARN] [FML]: Mod veinminer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
+[22:01:53] [Server thread/WARN] [FML]: Mod veinminermodsupport is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
+[22:01:53] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
+[22:01:54] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[22:01:55] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
+[22:01:55] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:01:55] [Server thread/WARN] [FML]: Missing English translation for betterpingdisplay: assets/betterpingdisplay/lang/en_us.lang
+[22:01:55] [Server thread/WARN] [FML]: Missing English translation for veinminermodsupport: assets/veinminermodsupport/lang/en_us.lang
+[22:01:55] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
+[22:01:55] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[22:01:56] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, jei, betterpingdisplay, veinminer, veinminermodsupport, falling_tree, uppers, ic2, lycanitesmobs, uncraftingtable, flammpfeil.slashblade, chesttransporter, travelersbackpack, twilightforest, ironchest, creeperconfetti, playerrevive, creativecore, rtg] at CLIENT
+[22:01:56] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, jei, betterpingdisplay, veinminer, veinminermodsupport, falling_tree, uppers, ic2, lycanitesmobs, uncraftingtable, flammpfeil.slashblade, chesttransporter, travelersbackpack, twilightforest, ironchest, creeperconfetti, playerrevive, creativecore, rtg] at SERVER
+[22:01:59] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:01:59] [Server thread/INFO] [FML]: Found 1488 ObjectHolder annotations
+[22:01:59] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:01:59] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:01:59] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:02:00] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22:02:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile.uppers.upper`, expected `uppers`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:03] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[22:02:03] [Forge Version Check/INFO] [forge.VersionCheck]: [creeperconfetti] Starting version check at https://raw.githubusercontent.com/SR2610/MicroMods/master/CreeperConfetti/confettiUpdate.json
+[22:02:05] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:02:10] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[22:02:10] [Forge Version Check/INFO] [forge.VersionCheck]: [uncraftingtable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.12/update.json
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[22:02:14] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[22:02:15] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config version created successfully.
+[22:02:15] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config general created successfully.
+[22:02:15] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_yeti_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_yeti_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
+[22:02:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
+[22:02:16] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
+[22:02:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:17] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config spawning created successfully.
+[22:02:19] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[22:02:19] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[22:02:19] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[22:02:19] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[22:02:19] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[22:02:19] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 86 JSON Spawners...
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 86 JSON Spawners Loaded In Total.
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 5 JSON Dungeon Themes...
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 5 JSON Dungeon Themes Loaded In Total.
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Loading 5 JSON Dungeon Schematics...
+[22:02:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:293]: [LycanitesMobs] [Debug] [] Complete! 5 JSON Dungeon Schematics Loaded In Total.
+[22:02:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[22:02:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[22:02:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[22:02:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[22:02:22] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[22:02:22] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[22:02:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[22:02:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[22:02:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[22:02:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[22:02:24] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[22:02:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[22:02:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:02:25] [Server thread/INFO] [FML]: Applying holder lookups
+[22:02:25] [Server thread/INFO] [FML]: Holder lookups applied
+[22:02:26] [Server thread/INFO] [FML]: Applying holder lookups
+[22:02:26] [Server thread/INFO] [FML]: Holder lookups applied
+[22:02:26] [Server thread/INFO] [FML]: Applying holder lookups
+[22:02:26] [Server thread/INFO] [FML]: Holder lookups applied
+[22:02:26] [Server thread/INFO] [FML]: Applying holder lookups
+[22:02:26] [Server thread/INFO] [FML]: Holder lookups applied
+[22:02:26] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:02:26] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:02:27] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:02:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:02:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[22:02:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:02:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:02:27] [Server thread/INFO] [FML]: Applying holder lookups
+[22:02:27] [Server thread/INFO] [FML]: Holder lookups applied
+[22:02:29] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:02:29] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:02:29] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[22:02:29] [Server thread/INFO] [ic2.General]: ic2 version 2.8.221-ex112 loaded.
+[22:02:30] [Server thread/WARN] [RTG]: .= === = ================================ = ================================================== =.
+[22:02:30] [Server thread/WARN] [RTG]: ||                 RTG could not find realistic versions of the following biomes               ||
+[22:02:30] [Server thread/WARN] [RTG]: || === = ================================ = ================================================== ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  ID | Biome Class                      | Registry Name                                      ||
+[22:02:30] [Server thread/WARN] [RTG]: || --- - -------------------------------- - -------------------------------------------------- ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  40 | TFBiomeTwilightLake              | twilightforest:twilight_lake                       ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  41 | TFBiomeBase                      | twilightforest:twilight_forest                     ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  42 | TFBiomeTwilightForestVariant     | twilightforest:dense_twilight_forest               ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  43 | TFBiomeHighlands                 | twilightforest:twilight_highlands                  ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  44 | TFBiomeMushrooms                 | twilightforest:mushroom_forest                     ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  45 | TFBiomeSwamp                     | twilightforest:twilight_swamp                      ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  46 | TFBiomeStream                    | twilightforest:twilight_stream                     ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  47 | TFBiomeSnow                      | twilightforest:snowy_forest                        ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  48 | TFBiomeGlacier                   | twilightforest:twilight_glacier                    ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  49 | TFBiomeClearing                  | twilightforest:twilight_clearing                   ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  50 | TFBiomeOakSavanna                | twilightforest:oak_savannah                        ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  51 | TFBiomeFireflyForest             | twilightforest:firefly_forest                      ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  52 | TFBiomeDeepMushrooms             | twilightforest:deep_mushroom_forest                ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  53 | TFBiomeDarkForest                | twilightforest:dark_forest                         ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  54 | TFBiomeEnchantedForest           | twilightforest:enchanted_forest                    ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  55 | TFBiomeFireSwamp                 | twilightforest:fire_swamp                          ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  56 | TFBiomeDarkForestCenter          | twilightforest:dark_forest_center                  ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  57 | TFBiomeFinalPlateau              | twilightforest:highlands_center                    ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  58 | TFBiomeThornlands                | twilightforest:thornlands                          ||
+[22:02:30] [Server thread/WARN] [RTG]: ||  59 | TFBiomeSpookyForest              | twilightforest:spooky_forest                       ||
+[22:02:30] [Server thread/WARN] [RTG]: `= === | ================================ | ================================================== =`
+[22:02:31] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
+[22:02:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:02:31] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:02:32] [Server thread/INFO] [FML]: Applying holder lookups
+[22:02:32] [Server thread/INFO] [FML]: Holder lookups applied
+[22:02:32] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:02:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 698 advancements
+[22:02:33] [Server thread/INFO] [RTG]: World Seed: -7237516358209797788
+[22:02:33] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:02:33] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:02:33] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:02:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:02:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[22:02:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[22:02:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
+[22:02:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 83%
+[22:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.209s)! For help, type "help" or "?"
+[22:02:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:02:39] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:02:39] [Server thread/INFO] [FML]: Unloading dimension 7
+[22:02:58] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:02:58] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[22:02:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:02:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.234.146:53472] logged in with entity id 684 at (-15.30516223820158, 72.0, 64.56085356694302)
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
+[22:03:01] [Thread-6/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[22:03:56] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:03:56] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[22:03:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:03:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.185.98:1203] logged in with entity id 1087 at (-5.046703359677291, 63.5625, 86.04483346883924)
+[22:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
+[22:04:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ moved too quickly! 1.5711836336140816,0.7503116451703278,11.254621953508888
+[22:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 100.0, 106.5]
+[22:06:08] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[22:06:09] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[22:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[22:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 69.0, 113.5]
+[22:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
+[22:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -18.5, 100.0, 106.5]
+[22:11:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 69.0, 115.5]
+[22:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 我更新索尼的驱动
+[22:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> ok
+[22:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 104.0, 105.5]
+[22:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 75.0, 81.5]
+[22:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 我缺原石了
+[22:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 69.0, 115.5]
+[22:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
+[22:18:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 69.0, 114.5]
+[22:19:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
+[22:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -6.5, 70.0, 112.5]
+[22:21:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
+[22:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 100.0, 106.5]
+[22:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -5.5, 69.0, 115.5]
+[22:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
+[22:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -6.5, 69.0, 115.5]
+[22:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 75.0, 80.5]
+[22:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 106.5]
+[22:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[22:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to Spirit_Autumn]
+[22:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -8.5, 100.0, 103.5]
+[22:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -12.5, 96.0, 101.5]
+[22:28:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -12.5, 96.0, 101.5]
+[22:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -11.5, 100.0, 102.5]
+[22:31:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -12.5, 96.0, 101.5]
+[22:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -12.5, 96.0, 101.5]
+[22:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[22:35:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to -12.5, 96.0, 101.5]
+[22:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sculpture_: Teleported Sculpture_ to 1.5, 79.0, 96.5]
+[22:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ has made the advancement [Enchanter]
+[22:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 12.5, 75.0, 81.5]
+[22:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[22:40:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -20.5, 71.0, 100.5]
+[22:40:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -19.5, 162.0, 106.5]
+[22:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ has made the advancement [Take Aim]
+[22:42:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -2.5, 79.0, 99.5]
+[22:43:05] [Server thread/INFO] [ic2.PlayerActivity]: Player Spirit_Autumn/1026d7c4-3775-3de2-8155-ae3900429e38 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: -19/161/100.
+[22:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 74.5]
+[22:44:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[22:44:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
+[22:45:43] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:45:43] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,customskinloader@14.9,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[22:45:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:45:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Spirit_Autumn[/183.157.185.98:2316] logged in with entity id 27112 at (11.517724634171818, 75.0, 72.485926563893)
+[22:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn joined the game
+[22:57:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:57:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 14.572951079267206,0.0,-46.943839573622334
+[22:57:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2893ms behind, skipping 57 tick(s)
+[22:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ is bleeding...
+[22:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Sculpture_ to Spirit_Autumn]
