@@ -409,6 +409,7 @@
       "cooked_mutton": "2021-05-15 20:47:39 +0800",
       "cooked_beef": "2021-05-15 23:22:54 +0800",
       "chorus_fruit": "2021-05-17 17:34:38 +0800",
+      "baked_potato": "2021-05-19 16:31:51 +0800",
       "raw_salmon": "2021-05-13 22:52:43 +0800",
       "rotten_flesh": "2021-05-12 22:49:44 +0800",
       "cooked_rabbit": "2021-05-16 15:38:21 +0800",
@@ -587,6 +588,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2021-05-15 23:11:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-05-19 17:30:22 +0800"
     },
     "done": true
   },
@@ -1880,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2021-05-19 16:44:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2021-05-12 22:19:07 +0800"
@@ -1979,6 +1992,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2021-05-15 23:44:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2021-05-19 16:44:13 +0800"
     },
     "done": true
   },
