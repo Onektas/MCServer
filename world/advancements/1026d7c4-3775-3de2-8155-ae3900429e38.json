@@ -995,7 +995,9 @@
     "criteria": {
       "zombie_villager": "2021-05-13 17:21:52 +0800",
       "skeleton": "2021-05-13 15:13:30 +0800",
+      "husk": "2021-05-21 17:44:36 +0800",
       "zombie": "2021-05-13 15:13:35 +0800",
+      "silverfish": "2021-05-21 17:51:40 +0800",
       "witch": "2021-05-13 15:14:13 +0800",
       "spider": "2021-05-13 15:29:08 +0800",
       "creeper": "2021-05-13 15:46:24 +0800",
@@ -1123,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2021-05-21 17:48:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2021-05-13 15:56:02 +0800"
@@ -1162,6 +1170,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2021-05-13 16:33:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-05-21 17:49:24 +0800"
     },
     "done": true
   },
