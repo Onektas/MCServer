@@ -122,3 +122,36 @@
 [19:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 100.0, 106.5]
 [19:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
 [19:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 9.5, 75.0, 80.5]
+[20:39:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[20:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn burned to death
+[20:39:21] [Thread-11/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[20:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 610.5, 10.0, 25.5]
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:39:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 7.5, 69.0, 117.5]
+[20:40:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 610.5, 10.0, 25.5]
+[20:40:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 246.5, 11.0, 35.5]
+[20:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 75.0, 83.5]
+[20:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 402.5, 11.0, 37.5]
+[20:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 607.5, 78.0, -44.5]
+[20:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 10.5, 75.0, 81.5]
+[20:51:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:53:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[20:53:42] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:54:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 82.5]
+[20:54:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:56:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -17.5, 100.0, 106.5]
+[20:57:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[20:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[20:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -17.5, 100.0, 106.5]
+[20:58:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
