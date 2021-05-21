@@ -697,3 +697,45 @@
 [22:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 39.0, 73.5]
 [22:53:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 30.80426516364572,-29.0,-44.00300657306798
 [22:54:45] [Server thread/INFO] [FML]: Unloading dimension 7
+[23:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 71.0, 109.5]
+[23:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1274.5, 34.0, -541.5]
+[23:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -12.5, 96.0, 105.5]
+[23:07:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[23:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1274.5, 34.0, -541.5]
+[23:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[23:11:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn burned to death
+[23:11:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1266.5, 64.0, -543.5]
+[23:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1268.5, 18.0, -549.5]
+[23:14:09] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:14:09] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,creativecoredummy@1.0.0,yarrmateys_cutemobmodels@1.0.16,creativecore@1.10.0,jei@4.15.0.291,damageindicatorsmod@1.0,veinminermodsupport@0.38.2,falling_tree@2.4.0,uppers@0.0.6,lycanitesmobs@2.0.7.2 - MC 1.12.2,ic2@2.8.221-ex112,mcp@9.42,veinminer@0.38.2,travelersbackpack@1.0.35,jecharacters@1.12.0-3.4.7,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,inventorytweaks@1.63+release.109.220f184,creeperconfetti@1.4.2,waila@1.8.26,i18nmod@1.12.2-1.1.0,voxelmap@1.9.25,forge@14.23.5.2855,uncraftingtable@1.8-beta6,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r31,playerrevive@1.0,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,betterpingdisplay@1.0
+[23:14:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:14:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sculpture_[/125.106.233.42:60595] logged in with entity id 481234 at (11.388197585368628, 75.0, 79.92401825270063)
+[23:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ joined the game
+[23:14:13] [Thread-13/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[23:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1261.5, 65.0, -548.5]
+[23:14:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 这橡树...
+[23:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[23:15:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> 我砍掉了，不然素材太丑了
+[23:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> ...
+[23:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Spirit_Autumn> 彳亍
+[23:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> sleep
+[23:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[23:19:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sculpture_> llq
+[23:19:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sculpture_ lost connection: Disconnected
+[23:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sculpture_ left the game
+[23:22:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 186.5, 63.0, 272.5]
+[23:22:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[23:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 14.5, 75.0, 83.5]
+[23:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[23:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 75.0, 81.5]
+[23:26:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[23:33:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[23:33:26] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:34:15] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[23:34:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:35:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 100.0, 107.5]
+[23:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 14.5, 75.0, 84.5]
+[23:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -16.5, 100.0, 107.5]
+[23:45:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[23:45:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[23:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
