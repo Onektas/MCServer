@@ -193,3 +193,507 @@
 [21:57:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
 [21:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -6.5, 77.0, 78.5]
 [21:58:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 80.0, -28.5]
+[22:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 67.0, -27.5]
+[22:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 160.5, 61.0, 348.5]
+[22:02:22] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: demonictemple - TP Command: /tp -137 66 2615  - Origin: BlockPos{x=-137, y=64, z=2615} - Complete: false - Seed: 7492435250794020744 - ID: 4f8465b4-d121-034a-0e46-4fdeccb613d1
+[22:02:22] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: demonictemple - TP Command: /tp -137 66 -2825  - Origin: BlockPos{x=-137, y=64, z=-2825} - Complete: false - Seed: 5588645451874493022 - ID: da0b0885-6da4-f866-39df-28297dc5e9b9
+[22:02:22] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: demonictemple - TP Command: /tp -2857 66 -105  - Origin: BlockPos{x=-2857, y=64, z=-105} - Complete: false - Seed: -3280156310965944035 - ID: d9e38999-bca7-8642-3cc6-37bbab5e9146
+[22:02:22] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: aberrantstation - TP Command: /tp 2583 66 -105  - Origin: BlockPos{x=2583, y=64, z=-105} - Complete: false - Seed: -6567081619324903343 - ID: e9080d84-82b3-e59c-a60b-ad74acb6b914
+[22:02:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 170.5, 58.0, 351.5]
+[22:02:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3996ms behind, skipping 79 tick(s)
+[22:04:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 93.5, 87.0, 278.5]
+[22:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -230.5, 73.0, -94.5]
+[22:11:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 359.5, 42.0, 374.5]
+[22:11:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2453ms behind, skipping 49 tick(s)
+[22:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 438.5, 45.0, 357.5]
+[22:12:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -111.5, 82.0, -280.5]
+[22:12:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
+[22:12:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -5.5, 67.0, -27.5]
+[22:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[22:13:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn burned to death
+[22:13:18] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:13:19] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[22:13:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:13:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:14:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:15:18] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:15:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! -14.151026153343642,0.0,45.800000011920936
+[22:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -7.5, 77.0, 79.5]
+[22:21:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 80.5]
+[22:22:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -0.5, 65.0, 96.5]
+[22:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 11.5, 75.0, 79.5]
+[22:24:43] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:24:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3580ms behind, skipping 71 tick(s)
+[22:24:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 29.994265409207024,-28.92159999847412,-42.15723509636898
+[22:26:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 2.656934863366331,10.200000405311584,-0.5672965023715619
+[22:26:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -423.5, 121.0, -456.5]
+[22:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:53] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:54] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:54] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:54] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:54] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:54] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2696ms behind, skipping 53 tick(s)
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:55] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:56] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:57] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:57] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:57] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:57] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:57] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:57] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:58] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:26:59] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:00] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:02] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:03] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:05] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:09] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:12] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:13] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:17] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:17] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:17] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:17] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:17] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:17] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:19] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:20] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:20] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:20] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:20] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:20] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:20] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn fell from a high place
+[22:27:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14449ms behind, skipping 288 tick(s)
+[22:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -423.5, 120.0, -456.5]
+[22:27:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:27:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:27:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:27:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:33] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:34] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:35] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:27:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2822ms behind, skipping 56 tick(s)
+[22:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[22:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Kobold
+[22:27:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -422.5, 121.0, -454.5]
+[22:27:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:27:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:27:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[22:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was killed by magic
+[22:29:14] [Server thread/INFO] [FML]: Unloading dimension 7
+[22:29:51] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[22:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -253.5, 32.0, -231.5]
+[22:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -422.5, 121.0, -455.5]
+[22:31:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:31:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -252.5, 32.0, -232.5]
+[22:32:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -422.5, 121.0, -454.5]
+[22:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -253.5, 32.0, -235.5]
+[22:33:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -422.5, 120.0, -453.5]
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:30] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:31] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:32] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:32] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:32] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:32] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:32] [Server thread/WARN] [twilightforest]: Final Castle tower has null for glyph color, this is a bug.
+[22:34:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2471ms behind, skipping 49 tick(s)
+[22:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -228.5, 32.0, -223.5]
+[22:34:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[22:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn fell from a high place
+[22:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -228.5, 31.0, -223.5]
+[22:46:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[22:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Darkling
+[22:47:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -238.5, 13.0, -248.5]
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to 13.5, 39.0, 73.5]
+[22:53:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 30.80426516364572,-29.0,-44.00300657306798
+[22:54:45] [Server thread/INFO] [FML]: Unloading dimension 7
