@@ -85,3 +85,53 @@
 [13:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Set own game mode to Creative Mode]
 [13:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Set own game mode to Survival Mode]
 [13:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved wrongly!
+[14:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1097.5, 66.0, -429.5]
+[14:02:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2499ms behind, skipping 49 tick(s)
+[14:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1274.5, 34.0, -541.5]
+[14:06:04] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[14:06:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn has made the advancement [The End?]
+[14:06:04] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager]: Scanning for legacy world dragon fight...
+[14:06:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -2841 66 -121  - Origin: BlockPos{x=-2841, y=64, z=-121} - Complete: false - Seed: 1497630592003824692 - ID: null
+[14:06:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 -2841  - Origin: BlockPos{x=-121, y=64, z=-2841} - Complete: false - Seed: -447072926545387299 - ID: null
+[14:06:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 2599  - Origin: BlockPos{x=-121, y=64, z=2599} - Complete: false - Seed: -4111755874094444796 - ID: null
+[14:06:04] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp 2599 66 -121  - Origin: BlockPos{x=2599, y=64, z=-121} - Complete: false - Seed: 8246067733573092839 - ID: null
+[14:06:06] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager]: Found that the dragon has not yet been killed in this world.
+[14:06:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 1372.5399321821196,17.23363200604248,541.4984966999418
+[14:06:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2031ms behind, skipping 40 tick(s)
+[14:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[14:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn blew up
+[14:07:43] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:07:43] [Thread-16/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online donations file read successfully.
+[14:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1274.5, 34.0, -541.5]
+[14:08:00] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[14:08:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 1372.5657126332405,17.23363200604248,541.500090903377
+[14:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -43.5, 88.0, 0.5]
+[14:08:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[14:08:13] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 2599  - Origin: BlockPos{x=-121, y=64, z=2599} - Complete: false - Seed: -4111755874094444796 - ID: 7b8635c0-c40e-83db-1c74-1ef317b560d1
+[14:08:13] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 -2841  - Origin: BlockPos{x=-121, y=64, z=-2841} - Complete: false - Seed: -447072926545387299 - ID: 2bec957f-1f2c-b1e5-75ca-97ef37105f86
+[14:08:13] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp 2599 66 -121  - Origin: BlockPos{x=2599, y=64, z=-121} - Complete: false - Seed: 8246067733573092839 - ID: 68929229-ea9c-d9c8-6bd5-5b6d8940c41e
+[14:08:13] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -2841 66 -121  - Origin: BlockPos{x=-2841, y=64, z=-121} - Complete: false - Seed: 1497630592003824692 - ID: d8ff6e64-e03d-2439-c164-0321ce9ac19a
+[14:09:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn is bleeding...
+[14:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn was slain by Moloch Pinky Lvl 2
+[14:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1274.5, 34.0, -541.5]
+[14:09:31] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:09:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Set own game mode to Creative Mode]
+[14:09:37] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[14:09:38] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 2599  - Origin: BlockPos{x=-121, y=64, z=2599} - Complete: false - Seed: -4111755874094444796 - ID: 7b8635c0-c40e-83db-1c74-1ef317b560d1
+[14:09:38] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 -2841  - Origin: BlockPos{x=-121, y=64, z=-2841} - Complete: false - Seed: -447072926545387299 - ID: 2bec957f-1f2c-b1e5-75ca-97ef37105f86
+[14:09:38] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp 2599 66 -121  - Origin: BlockPos{x=2599, y=64, z=-121} - Complete: false - Seed: 8246067733573092839 - ID: 68929229-ea9c-d9c8-6bd5-5b6d8940c41e
+[14:09:38] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -2841 66 -121  - Origin: BlockPos{x=-2841, y=64, z=-121} - Complete: false - Seed: 1497630592003824692 - ID: d8ff6e64-e03d-2439-c164-0321ce9ac19a
+[14:09:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 1372.5472084486782,17.23363200604248,541.6366009548312
+[14:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn has made the advancement [Free the End]
+[14:21:07] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:21:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Teleported Spirit_Autumn to -1274.5, 34.0, -541.5]
+[14:21:18] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@693b7362)
+[14:21:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn moved too quickly! 1372.5463936012536,17.23363200604248,541.5264246964944
+[14:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Spirit_Autumn: Set own game mode to Survival Mode]
+[14:23:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 2599  - Origin: BlockPos{x=-121, y=64, z=2599} - Complete: false - Seed: -4111755874094444796 - ID: 7b8635c0-c40e-83db-1c74-1ef317b560d1
+[14:23:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -121 66 -2841  - Origin: BlockPos{x=-121, y=64, z=-2841} - Complete: false - Seed: -447072926545387299 - ID: 2bec957f-1f2c-b1e5-75ca-97ef37105f86
+[14:23:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp 2599 66 -121  - Origin: BlockPos{x=2599, y=64, z=-121} - Complete: false - Seed: 8246067733573092839 - ID: 68929229-ea9c-d9c8-6bd5-5b6d8940c41e
+[14:23:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] [Dungeon] Generated New Dungeon Instance Dungeon Instance - Schematic: shadowlabyrinth - TP Command: /tp -2841 66 -121  - Origin: BlockPos{x=-2841, y=64, z=-121} - Complete: false - Seed: 1497630592003824692 - ID: d8ff6e64-e03d-2439-c164-0321ce9ac19a
+[14:24:57] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:25:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Spirit_Autumn lost connection: Disconnected
+[14:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spirit_Autumn left the game
